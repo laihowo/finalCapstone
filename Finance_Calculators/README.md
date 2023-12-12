@@ -10,18 +10,18 @@ This is the finance calculators for the python course. This program will allow y
 ## Requirement
 
 You need the following item to install.
-* [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}
-
-<a href="https://www.google.com" target="_blank">external link</a>
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git](https://git-scm.com/downloads)
+* [Python](https://www.python.org/downloads/)
 
 ## Installation
 
-1. Get VS Code at https://code.visualstudio.com/
+1. Open VS Code
 
-2. Open a new terminal and run the command below to clone the repository. 
+2. Open a new terminal and run the command below to clone the repository file. 
 
 ```bash
-git clone https://github.com/laihowo/finalCapstone/blob/main/Finance_Calculators/finance_calculators.py
+wget https://raw.githubusercontent.com/laihowo/finalCapstone/main/Finance_Calculators/finance_calculators.py
 ```
 
 ## Demo
