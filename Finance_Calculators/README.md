@@ -16,7 +16,7 @@ You need the following item to install.
 
 ## Installation
 
-1. Open VS Code
+1. Open VS Code.
 
 2. Open a new terminal and run the command below to clone the repository file. 
 
