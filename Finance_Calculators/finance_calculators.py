@@ -9,8 +9,8 @@ print('investment - to calculate the amount of interest you\'ll earn on your inv
 print('bond       - to calculate the amount you\'ll have to pay on a home loan')
 
 # Get the user's selection
-user_selection = input("\nEnter either 'investment' or 'bond' from the menu above to proceed: ")
-user_selection = user_selection.lower()
+user_selection = input(
+    "\nEnter either 'investment' or 'bond' from the menu above to proceed: ").lower()
 
 # If the user selects 'investment'
 if user_selection == 'investment':
