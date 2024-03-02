@@ -30,9 +30,9 @@ wget https://raw.githubusercontent.com/laihowo/finalCapstone/main/Finance_Calcul
 
 2. You will be asked to input either 'investment' or 'bond'.
 
-3. If you choose 'investment', you will be asked to input the amount of money you are depositing, the interest rate and how many years you plan on investing. Next, enter either 'simple' or 'compound' interest. 
+3. If you choose 'investment', you will be asked to input the amount of money you are depositing, the interest rate and how many years you plan on investing. Next, enter either 'simple' or 'compound' interest.
 
-![Demo](https://github.com/MISA3395/Projects-HyperionDev/assets/132083386/1abe033c-4075-4f07-b82d-670649ceeef1)  
+![Demo](https://github.com/MISA3395/Projects-HyperionDev/assets/132083386/1abe033c-4075-4f07-b82d-670649ceeef1)
 
 4. If you choose 'bond', you will be asked to input the present value of the house, the interest rate and how many months you plan to take to repay the bond.
 

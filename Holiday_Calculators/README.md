@@ -32,6 +32,8 @@ wget https://raw.githubusercontent.com/laihowo/finalCapstone/main/Holiday_Calcul
 
 3. The program will then calculate the total holiday cost you will have to pay.
 
+![Holiday Calculators](https://raw.githubusercontent.com/laihowo/finalCapstone/main/Holiday_Calculators/holiday_calculators.png)
+
 ## Authors
 
 - [@laihowo](https://github.com/laihowo)
