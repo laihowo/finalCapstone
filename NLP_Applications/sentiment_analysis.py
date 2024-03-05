@@ -15,7 +15,7 @@ reviews_data = dataframe['reviews.text'].dropna().drop_duplicates()
 # Initialise an empty list of processed product reviews
 processed_reviews = []
 
-# For each of the product reviews in the reviews.text column
+# For each product review in the reviews.text column
 for review in reviews_data:
     # Remove the leading and trailing white spaces and make the review lower case
     preprocessed_review = review.strip().lower()
